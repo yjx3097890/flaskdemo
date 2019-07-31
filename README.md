@@ -23,7 +23,8 @@
 2. python3 -m venv venv
 3. source venv/bin/active 
 4. pip install -r requirements.txt
-5. 新建数据库 flaskdemo
-6. 数据库迁移
-7. flask run
+5. 在 config.py 里修改 SQLALCHEMY_DATABASE_URI 为正确的数据库用户名和密码
+6. 新建数据库 flaskdemo
+7. 数据库迁移
+8. flask run
 
