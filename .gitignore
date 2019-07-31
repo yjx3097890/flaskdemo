@@ -1,4 +1,6 @@
+# Byte-compiled / optimized / DLL files
 *.py[cod]
+*$py.class
 
 # C extensions
 *.so
@@ -41,3 +43,17 @@ nosetests.xml
 # Virtual environment
 venv
 env
+
+# IDE
+.idea
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+
+# MAC
+.DS_Store
+.AppleDouble
+.LSOverride
