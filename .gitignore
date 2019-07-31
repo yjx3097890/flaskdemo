@@ -54,6 +54,6 @@ Desktop.ini
 
 
 # MAC
-.DS_Store
+**/.DS_Store
 .AppleDouble
 .LSOverride
